@@ -1,0 +1,2 @@
+Sample Name	Allele ID	Allele URL	Antibody Vendor	Associated Files	Cell Line	Cell Type	ChIP Method	Core Facility	Culture period (days)	Directional Sequencing Library	Dose	enter name here..	Gene Name	Genetic Modification	GEO accession number	Global Unique Identifier (GUID)	Library Prep Method	Line/strain	Organ	PI Providing Sample	Pulse (hours)	Raw Data URL	Replica Number	Sample Source	Seq Library Insert Size	Sequence Read Length	Sequencing Read Type	Stage (ESC differentiation)	Stage (Human)	Tissue	enter name here..	Sample Type
+																																
